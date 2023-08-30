@@ -1,0 +1,17 @@
+{
+  "devices" :
+  [
+    {
+      "url" : "10.3.2.143",
+      "version": 2,
+      "community" : "public",
+      "timeout": 5000,
+      "params":
+      [
+        {
+          "oid": ".1.3.6.1.2.1.1.3.0"
+        }
+      ]
+    }
+  ]
+}
